@@ -31,9 +31,6 @@
         <mxCell id="Z6PwutFSSIyb7HjkUwEs-9" value="Buyers" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="821" y="440" width="107" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="Z6PwutFSSIyb7HjkUwEs-10" value="Suppliers" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1601" y="45" width="125" height="49" as="geometry" />
-        </mxCell>
         <mxCell id="Z6PwutFSSIyb7HjkUwEs-11" value="LogisticsPartners" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1927" y="45" width="181" height="49" as="geometry" />
         </mxCell>
@@ -78,6 +75,7 @@
         <mxCell id="Z6PwutFSSIyb7HjkUwEs-18" value="Subscribes/Uses" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.55;entryX=0.64;entryY=0;rounded=0;" edge="1" parent="1" source="Z6PwutFSSIyb7HjkUwEs-7" target="Z6PwutFSSIyb7HjkUwEs-4">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
+              <mxPoint x="1350" y="360" />
               <mxPoint x="519" y="139" />
             </Array>
           </mxGeometry>
@@ -117,7 +115,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Z6PwutFSSIyb7HjkUwEs-24" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.64;entryX=0.77;entryY=0;rounded=0;" edge="1" parent="1" source="Z6PwutFSSIyb7HjkUwEs-11" target="Z6PwutFSSIyb7HjkUwEs-5">
+        <mxCell id="Z6PwutFSSIyb7HjkUwEs-24" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.64;entryX=0.77;entryY=0;rounded=0;" edge="1" parent="1" source="Z6PwutFSSIyb7HjkUwEs-10" target="Z6PwutFSSIyb7HjkUwEs-5">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="990" y="530" />
@@ -166,6 +164,16 @@
               <mxPoint x="2327" y="139" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="Z6PwutFSSIyb7HjkUwEs-31" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.64;entryX=0.77;entryY=0;rounded=0;" edge="1" parent="1" source="Z6PwutFSSIyb7HjkUwEs-11" target="Z6PwutFSSIyb7HjkUwEs-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+            <mxPoint x="1927" y="76" as="sourcePoint" />
+            <mxPoint x="1058" y="184" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Z6PwutFSSIyb7HjkUwEs-10" value="Suppliers" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="950" y="440" width="125" height="49" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
