@@ -23,7 +23,7 @@
           <mxGeometry x="670" y="440" width="101" height="49" as="geometry" />
         </mxCell>
         <mxCell id="Z6PwutFSSIyb7HjkUwEs-7" value="SME 2" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1776" y="45" width="101" height="49" as="geometry" />
+          <mxGeometry x="660" y="540" width="101" height="49" as="geometry" />
         </mxCell>
         <mxCell id="Z6PwutFSSIyb7HjkUwEs-8" value="SME 3" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="2158" y="45" width="101" height="49" as="geometry" />
@@ -35,7 +35,7 @@
           <mxGeometry x="1927" y="45" width="181" height="49" as="geometry" />
         </mxCell>
         <mxCell id="Z6PwutFSSIyb7HjkUwEs-12" value="Benefits" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1792" y="193" width="119" height="49" as="geometry" />
+          <mxGeometry x="750" y="660" width="119" height="49" as="geometry" />
         </mxCell>
         <mxCell id="Z6PwutFSSIyb7HjkUwEs-13" value="Manages" style="curved=1;startArrow=none;endArrow=block;exitX=0.26;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="Z6PwutFSSIyb7HjkUwEs-2" target="Z6PwutFSSIyb7HjkUwEs-3">
           <mxGeometry relative="1" as="geometry">
