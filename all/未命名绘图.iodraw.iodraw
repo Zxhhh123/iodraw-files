@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="Z6PwutFSSIyb7HjkUwEs-1" value="Shared Platform Ecosystem (e.g., E-commerce or IIP)" style="whiteSpace=wrap;strokeWidth=2;flipV=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="-30" width="2410" height="280" as="geometry" />
+          <mxGeometry x="150" y="-50" width="2410" height="280" as="geometry" />
         </mxCell>
         <mxCell id="Z6PwutFSSIyb7HjkUwEs-2" value="Platform Provider" style="whiteSpace=wrap;strokeWidth=2;flipV=1;" vertex="1" parent="1">
           <mxGeometry x="328" y="-5" width="187" height="49" as="geometry" />
