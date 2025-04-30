@@ -20,7 +20,7 @@
           <mxGeometry x="889" y="184" width="220" height="66" as="geometry" />
         </mxCell>
         <mxCell id="Z6PwutFSSIyb7HjkUwEs-6" value="SME 1" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1293" y="45" width="101" height="49" as="geometry" />
+          <mxGeometry x="670" y="440" width="101" height="49" as="geometry" />
         </mxCell>
         <mxCell id="Z6PwutFSSIyb7HjkUwEs-7" value="SME 2" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1776" y="45" width="101" height="49" as="geometry" />
@@ -29,7 +29,7 @@
           <mxGeometry x="2158" y="45" width="101" height="49" as="geometry" />
         </mxCell>
         <mxCell id="Z6PwutFSSIyb7HjkUwEs-9" value="Buyers" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1444" y="45" width="107" height="49" as="geometry" />
+          <mxGeometry x="821" y="440" width="107" height="49" as="geometry" />
         </mxCell>
         <mxCell id="Z6PwutFSSIyb7HjkUwEs-10" value="Suppliers" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1601" y="45" width="125" height="49" as="geometry" />
