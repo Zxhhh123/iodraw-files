@@ -7,19 +7,19 @@
         <mxCell id="cs3Pi6S1v08XI19ZjyIN-1" value="Identify Need: Market Access" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="-280.00324747069385" y="199.99837032652775" width="217" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="cs3Pi6S1v08XI19ZjyIN-2" value="Form Cooperative Group" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="cs3Pi6S1v08XI19ZjyIN-2" value="Form Cooperative Group" style="whiteSpace=wrap;strokeWidth=2;rounded=0;sketch=1;jiggle=2;curveFitting=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=19;fontColor=default;fontStyle=1;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="-270.00324747069385" y="45.83837032652775" width="239" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="cs3Pi6S1v08XI19ZjyIN-3" value="Select E-commerce Platform" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="cs3Pi6S1v08XI19ZjyIN-3" value="Select E-commerce Platform" style="rhombus;strokeWidth=2;whiteSpace=wrap;rounded=0;sketch=1;jiggle=2;curveFitting=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=19;fontColor=default;fontStyle=1;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="-190.00324747069385" y="-247.16162967347225" width="204" height="204" as="geometry" />
         </mxCell>
         <mxCell id="cs3Pi6S1v08XI19ZjyIN-4" value="Pool Resources: Fees, Operator" style="whiteSpace=wrap;strokeWidth=2;rounded=0;sketch=1;jiggle=2;curveFitting=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=19;fontColor=default;fontStyle=1;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="-430.00324747069385" y="-180.00162967347225" width="214" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="cs3Pi6S1v08XI19ZjyIN-5" value="Launch Shared Storefront" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="cs3Pi6S1v08XI19ZjyIN-5" value="Launch Shared Storefront" style="whiteSpace=wrap;strokeWidth=2;rounded=0;sketch=1;jiggle=2;curveFitting=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=19;fontColor=default;fontStyle=1;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="-444.50324747069385" y="-80.00162967347225" width="243" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="cs3Pi6S1v08XI19ZjyIN-6" value="Ongoing Operations: Listings, Orders, Marketing" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="cs3Pi6S1v08XI19ZjyIN-6" value="Ongoing Operations: Listings, Orders, Marketing" style="whiteSpace=wrap;strokeWidth=2;rounded=0;sketch=1;jiggle=2;curveFitting=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=19;fontColor=default;fontStyle=1;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="-600.0032474706939" y="-0.0016296734722480721" width="250" height="70" as="geometry" />
         </mxCell>
         <mxCell id="cs3Pi6S1v08XI19ZjyIN-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="cs3Pi6S1v08XI19ZjyIN-7">
