@@ -33,7 +33,7 @@
         <mxCell id="cs3Pi6S1v08XI19ZjyIN-8" value="Leverage External Support: Platform Training, Gov Center" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="-860.0032474706939" y="69.99837032652775" width="437" height="279" as="geometry" />
         </mxCell>
-        <mxCell id="cs3Pi6S1v08XI19ZjyIN-9" value="Monitor Performance: Sales, Costs" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="cs3Pi6S1v08XI19ZjyIN-9" value="Monitor Performance: Sales, Costs" style="whiteSpace=wrap;strokeWidth=2;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="-740.0032474706939" y="-247.16162967347225" width="217" height="66" as="geometry" />
         </mxCell>
         <mxCell id="cs3Pi6S1v08XI19ZjyIN-10" value="" style="curved=1;startArrow=none;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;noEdgeStyle=1;orthogonal=1;" edge="1" parent="1" source="cs3Pi6S1v08XI19ZjyIN-1" target="cs3Pi6S1v08XI19ZjyIN-2">
