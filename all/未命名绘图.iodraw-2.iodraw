@@ -5,13 +5,13 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="cs3Pi6S1v08XI19ZjyIN-1" value="Identify Need: Market Access" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="40.23675252930616" y="90.83837032652775" width="217" height="66" as="geometry" />
+          <mxGeometry x="-280.00324747069385" y="199.99837032652775" width="217" height="66" as="geometry" />
         </mxCell>
         <mxCell id="cs3Pi6S1v08XI19ZjyIN-2" value="Form Cooperative Group" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="-39.76324747069384" y="10.838370326527752" width="239" height="45" as="geometry" />
+          <mxGeometry x="-270.00324747069385" y="45.83837032652775" width="239" height="45" as="geometry" />
         </mxCell>
         <mxCell id="cs3Pi6S1v08XI19ZjyIN-3" value="Select E-commerce Platform" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="-139.76324747069384" y="-279.16162967347225" width="204" height="204" as="geometry" />
+          <mxGeometry x="-190.00324747069385" y="-247.16162967347225" width="204" height="204" as="geometry" />
         </mxCell>
         <mxCell id="cs3Pi6S1v08XI19ZjyIN-4" value="Pool Resources: Fees, Operator" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="-430.00324747069385" y="-180.00162967347225" width="214" height="66" as="geometry" />
@@ -26,7 +26,7 @@
           <mxGeometry x="-799.7632474706938" y="-109.16162967347225" width="232" height="66" as="geometry" />
         </mxCell>
         <mxCell id="cs3Pi6S1v08XI19ZjyIN-8" value="Leverage External Support: Platform Training, Gov Center" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="-929.7632474706938" y="90.83837032652775" width="437" height="279" as="geometry" />
+          <mxGeometry x="-803.0032474706939" y="49.99837032652775" width="437" height="279" as="geometry" />
         </mxCell>
         <mxCell id="cs3Pi6S1v08XI19ZjyIN-9" value="Monitor Performance: Sales, Costs" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="-699.7632474706938" y="-209.16162967347225" width="217" height="66" as="geometry" />
