@@ -25,7 +25,7 @@
           <mxGeometry x="61" y="420" width="243" height="49" as="geometry" />
         </mxCell>
         <mxCell id="cs3Pi6S1v08XI19ZjyIN-6" value="Ongoing Operations: Listings, Orders, Marketing" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="43" y="704" width="252" height="66" as="geometry" />
+          <mxGeometry x="47" y="510" width="252" height="66" as="geometry" />
         </mxCell>
         <mxCell id="cs3Pi6S1v08XI19ZjyIN-7" value="Regular Meetings: Share Data/Best Practices" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="47" y="937" width="232" height="66" as="geometry" />
@@ -34,7 +34,7 @@
           <mxGeometry x="105" y="1053" width="279" height="279" as="geometry" />
         </mxCell>
         <mxCell id="cs3Pi6S1v08XI19ZjyIN-9" value="Monitor Performance: Sales, Costs" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="55" y="820" width="217" height="66" as="geometry" />
+          <mxGeometry x="64.5" y="640" width="217" height="66" as="geometry" />
         </mxCell>
         <mxCell id="cs3Pi6S1v08XI19ZjyIN-10" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="cs3Pi6S1v08XI19ZjyIN-1" target="cs3Pi6S1v08XI19ZjyIN-2">
           <mxGeometry relative="1" as="geometry">
