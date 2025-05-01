@@ -20,13 +20,13 @@
           <mxGeometry x="-529.7632474706938" y="-99.16162967347225" width="243" height="49" as="geometry" />
         </mxCell>
         <mxCell id="cs3Pi6S1v08XI19ZjyIN-6" value="Ongoing Operations: Listings, Orders, Marketing" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="-680.0032474706939" y="-43.16162967347225" width="250" height="70" as="geometry" />
+          <mxGeometry x="-680.0032474706939" y="-24.161629673472248" width="250" height="70" as="geometry" />
         </mxCell>
         <mxCell id="cs3Pi6S1v08XI19ZjyIN-7" value="Regular Meetings: Share Data/Best Practices" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-799.7632474706938" y="-109.16162967347225" width="232" height="66" as="geometry" />
         </mxCell>
         <mxCell id="cs3Pi6S1v08XI19ZjyIN-8" value="Leverage External Support: Platform Training, Gov Center" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="-803.0032474706939" y="49.99837032652775" width="437" height="279" as="geometry" />
+          <mxGeometry x="-867.0032474706939" y="69.99837032652775" width="437" height="279" as="geometry" />
         </mxCell>
         <mxCell id="cs3Pi6S1v08XI19ZjyIN-9" value="Monitor Performance: Sales, Costs" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="-699.7632474706938" y="-209.16162967347225" width="217" height="66" as="geometry" />
