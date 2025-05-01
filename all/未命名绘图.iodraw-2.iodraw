@@ -31,7 +31,7 @@
           <mxGeometry x="57" y="800" width="232" height="66" as="geometry" />
         </mxCell>
         <mxCell id="cs3Pi6S1v08XI19ZjyIN-8" value="Leverage External Support: Platform Training, Gov Center" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="105" y="1053" width="279" height="279" as="geometry" />
+          <mxGeometry x="43" y="900" width="279" height="279" as="geometry" />
         </mxCell>
         <mxCell id="cs3Pi6S1v08XI19ZjyIN-9" value="Monitor Performance: Sales, Costs" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="64.5" y="640" width="217" height="66" as="geometry" />
