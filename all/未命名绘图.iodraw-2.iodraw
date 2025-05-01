@@ -17,7 +17,7 @@
           <mxGeometry x="640" y="304" width="214" height="66" as="geometry" />
         </mxCell>
         <mxCell id="cs3Pi6S1v08XI19ZjyIN-5" value="Launch Shared Storefront" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="61" y="420" width="243" height="49" as="geometry" />
+          <mxGeometry x="390" y="440" width="243" height="49" as="geometry" />
         </mxCell>
         <mxCell id="cs3Pi6S1v08XI19ZjyIN-6" value="Ongoing Operations: Listings, Orders, Marketing" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="47" y="510" width="252" height="66" as="geometry" />
