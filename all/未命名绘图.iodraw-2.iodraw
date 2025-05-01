@@ -20,16 +20,16 @@
           <mxGeometry x="390" y="440" width="243" height="49" as="geometry" />
         </mxCell>
         <mxCell id="cs3Pi6S1v08XI19ZjyIN-6" value="Ongoing Operations: Listings, Orders, Marketing" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="110" y="350" width="250" height="70" as="geometry" />
+          <mxGeometry x="64.5" y="943" width="250" height="70" as="geometry" />
         </mxCell>
         <mxCell id="cs3Pi6S1v08XI19ZjyIN-7" value="Regular Meetings: Share Data/Best Practices" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="64.5" y="827" width="232" height="66" as="geometry" />
+          <mxGeometry x="312" y="827" width="232" height="66" as="geometry" />
         </mxCell>
         <mxCell id="cs3Pi6S1v08XI19ZjyIN-8" value="Leverage External Support: Platform Training, Gov Center" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="550" y="480" width="437" height="279" as="geometry" />
+          <mxGeometry x="354.5" y="943" width="437" height="279" as="geometry" />
         </mxCell>
         <mxCell id="cs3Pi6S1v08XI19ZjyIN-9" value="Monitor Performance: Sales, Costs" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="64.5" y="640" width="217" height="66" as="geometry" />
+          <mxGeometry x="81" y="1063" width="217" height="66" as="geometry" />
         </mxCell>
         <mxCell id="cs3Pi6S1v08XI19ZjyIN-10" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="cs3Pi6S1v08XI19ZjyIN-1" target="cs3Pi6S1v08XI19ZjyIN-2">
           <mxGeometry relative="1" as="geometry">
@@ -57,47 +57,22 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="cs3Pi6S1v08XI19ZjyIN-15" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.16;exitY=1.01;entryX=0.15;entryY=0;rounded=0;" edge="1" parent="1" source="cs3Pi6S1v08XI19ZjyIN-6" target="cs3Pi6S1v08XI19ZjyIN-7">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="20" y="795" />
-              <mxPoint x="20" y="912" />
-            </Array>
-          </mxGeometry>
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cs3Pi6S1v08XI19ZjyIN-16" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.25;entryY=0;rounded=0;" edge="1" parent="1" source="cs3Pi6S1v08XI19ZjyIN-7" target="cs3Pi6S1v08XI19ZjyIN-8">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="163" y="1028" />
-            </Array>
-          </mxGeometry>
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cs3Pi6S1v08XI19ZjyIN-17" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.49;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="cs3Pi6S1v08XI19ZjyIN-6" target="cs3Pi6S1v08XI19ZjyIN-9">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="163" y="795" />
-            </Array>
-          </mxGeometry>
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cs3Pi6S1v08XI19ZjyIN-18" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.85;exitY=0;entryX=0.81;entryY=1.01;rounded=0;" edge="1" parent="1" source="cs3Pi6S1v08XI19ZjyIN-7" target="cs3Pi6S1v08XI19ZjyIN-6">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="306" y="912" />
-              <mxPoint x="306" y="795" />
-            </Array>
-          </mxGeometry>
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cs3Pi6S1v08XI19ZjyIN-19" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.75;exitY=0;entryX=0.86;entryY=1.01;rounded=0;" edge="1" parent="1" source="cs3Pi6S1v08XI19ZjyIN-8" target="cs3Pi6S1v08XI19ZjyIN-6">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="326" y="1028" />
-              <mxPoint x="326" y="795" />
-            </Array>
-          </mxGeometry>
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cs3Pi6S1v08XI19ZjyIN-20" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="cs3Pi6S1v08XI19ZjyIN-9" target="cs3Pi6S1v08XI19ZjyIN-7">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cs3Pi6S1v08XI19ZjyIN-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="cs3Pi6S1v08XI19ZjyIN-8" target="cs3Pi6S1v08XI19ZjyIN-8">
           <mxGeometry relative="1" as="geometry" />
