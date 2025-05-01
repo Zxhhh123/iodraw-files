@@ -14,13 +14,13 @@
           <mxGeometry x="-139.76324747069384" y="-279.16162967347225" width="204" height="204" as="geometry" />
         </mxCell>
         <mxCell id="cs3Pi6S1v08XI19ZjyIN-4" value="Pool Resources: Fees, Operator" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="-399.76324747069384" y="-139.16162967347225" width="214" height="66" as="geometry" />
+          <mxGeometry x="-430.00324747069385" y="-180.00162967347225" width="214" height="66" as="geometry" />
         </mxCell>
         <mxCell id="cs3Pi6S1v08XI19ZjyIN-5" value="Launch Shared Storefront" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="-529.7632474706938" y="-99.16162967347225" width="243" height="49" as="geometry" />
         </mxCell>
         <mxCell id="cs3Pi6S1v08XI19ZjyIN-6" value="Ongoing Operations: Listings, Orders, Marketing" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="-669.7632474706938" y="-69.16162967347225" width="250" height="70" as="geometry" />
+          <mxGeometry x="-680.0032474706939" y="-43.16162967347225" width="250" height="70" as="geometry" />
         </mxCell>
         <mxCell id="cs3Pi6S1v08XI19ZjyIN-7" value="Regular Meetings: Share Data/Best Practices" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-799.7632474706938" y="-109.16162967347225" width="232" height="66" as="geometry" />
