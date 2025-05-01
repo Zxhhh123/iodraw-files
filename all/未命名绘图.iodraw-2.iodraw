@@ -9,11 +9,11 @@
         </mxCell>
         <mxCell id="cs3Pi6S1v08XI19ZjyIN-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cs3Pi6S1v08XI19ZjyIN-2">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="350" y="160.5" as="targetPoint" />
+            <mxPoint x="300" y="160" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="cs3Pi6S1v08XI19ZjyIN-2" value="Form Cooperative Group" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="51" y="136" width="236" height="49" as="geometry" />
+          <mxGeometry x="51" y="140" width="239" height="45" as="geometry" />
         </mxCell>
         <mxCell id="cs3Pi6S1v08XI19ZjyIN-3" value="Select E-commerce Platform" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="67" y="235" width="204" height="204" as="geometry" />
