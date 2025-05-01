@@ -1,35 +1,35 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="wvBZeCcM29Ilh7uJ-pjd">
-    <mxGraphModel dx="2382" dy="815" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2382" dy="1642" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="cs3Pi6S1v08XI19ZjyIN-1" value="Identify Need: Market Access" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry y="292.625" width="217" height="66" as="geometry" />
+          <mxGeometry x="239.88888888888886" y="292.625" width="217" height="66" as="geometry" />
         </mxCell>
         <mxCell id="cs3Pi6S1v08XI19ZjyIN-2" value="Form Cooperative Group" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="247" y="303.125" width="239" height="45" as="geometry" />
+          <mxGeometry x="72.88888888888886" y="303.125" width="239" height="45" as="geometry" />
         </mxCell>
         <mxCell id="cs3Pi6S1v08XI19ZjyIN-3" value="Select E-commerce Platform" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="516" y="223.625" width="204" height="204" as="geometry" />
+          <mxGeometry x="-44.61111111111114" y="223.62499999999977" width="204" height="204" as="geometry" />
         </mxCell>
         <mxCell id="cs3Pi6S1v08XI19ZjyIN-4" value="Pool Resources: Fees, Operator" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="750" y="292.625" width="214" height="66" as="geometry" />
+          <mxGeometry x="-343.61111111111114" y="292.62500000000006" width="214" height="66" as="geometry" />
         </mxCell>
         <mxCell id="cs3Pi6S1v08XI19ZjyIN-5" value="Launch Shared Storefront" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="994" y="301.125" width="243" height="49" as="geometry" />
+          <mxGeometry x="-514.1111111111111" y="301.1250000000001" width="243" height="49" as="geometry" />
         </mxCell>
         <mxCell id="cs3Pi6S1v08XI19ZjyIN-6" value="Ongoing Operations: Listings, Orders, Marketing" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1267" y="290.625" width="250" height="70" as="geometry" />
+          <mxGeometry x="-656.6111111111111" y="290.6250000000001" width="250" height="70" as="geometry" />
         </mxCell>
         <mxCell id="cs3Pi6S1v08XI19ZjyIN-7" value="Regular Meetings: Share Data/Best Practices" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1547" y="195.25" width="232" height="66" as="geometry" />
+          <mxGeometry x="-689.9173166411831" y="773.1988894704132" width="232" height="66" as="geometry" />
         </mxCell>
         <mxCell id="cs3Pi6S1v08XI19ZjyIN-8" value="Leverage External Support: Platform Training, Gov Center" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="1809" y="88.75" width="437" height="279" as="geometry" />
+          <mxGeometry x="-930.7632474706938" y="738.784972890975" width="437" height="279" as="geometry" />
         </mxCell>
         <mxCell id="cs3Pi6S1v08XI19ZjyIN-9" value="Monitor Performance: Sales, Costs" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1547" y="390" width="217" height="66" as="geometry" />
+          <mxGeometry x="-628.1638035597346" y="-280.16162967347225" width="217" height="66" as="geometry" />
         </mxCell>
         <mxCell id="cs3Pi6S1v08XI19ZjyIN-10" value="" style="curved=1;startArrow=none;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;noEdgeStyle=1;orthogonal=1;" edge="1" parent="1" source="cs3Pi6S1v08XI19ZjyIN-1" target="cs3Pi6S1v08XI19ZjyIN-2">
           <mxGeometry relative="1" as="geometry" />
