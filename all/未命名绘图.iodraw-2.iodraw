@@ -5,31 +5,31 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="cs3Pi6S1v08XI19ZjyIN-1" value="Identify Need: Market Access" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="239.88888888888886" y="292.625" width="217" height="66" as="geometry" />
+          <mxGeometry x="40.23675252930616" y="90.83837032652775" width="217" height="66" as="geometry" />
         </mxCell>
         <mxCell id="cs3Pi6S1v08XI19ZjyIN-2" value="Form Cooperative Group" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="72.88888888888886" y="303.125" width="239" height="45" as="geometry" />
+          <mxGeometry x="-39.76324747069384" y="10.838370326527752" width="239" height="45" as="geometry" />
         </mxCell>
         <mxCell id="cs3Pi6S1v08XI19ZjyIN-3" value="Select E-commerce Platform" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="-44.61111111111114" y="223.62499999999977" width="204" height="204" as="geometry" />
+          <mxGeometry x="-139.76324747069384" y="-279.16162967347225" width="204" height="204" as="geometry" />
         </mxCell>
         <mxCell id="cs3Pi6S1v08XI19ZjyIN-4" value="Pool Resources: Fees, Operator" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="-343.61111111111114" y="292.62500000000006" width="214" height="66" as="geometry" />
+          <mxGeometry x="-399.76324747069384" y="-139.16162967347225" width="214" height="66" as="geometry" />
         </mxCell>
         <mxCell id="cs3Pi6S1v08XI19ZjyIN-5" value="Launch Shared Storefront" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="-514.1111111111111" y="301.1250000000001" width="243" height="49" as="geometry" />
+          <mxGeometry x="-529.7632474706938" y="-99.16162967347225" width="243" height="49" as="geometry" />
         </mxCell>
         <mxCell id="cs3Pi6S1v08XI19ZjyIN-6" value="Ongoing Operations: Listings, Orders, Marketing" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="-656.6111111111111" y="290.6250000000001" width="250" height="70" as="geometry" />
+          <mxGeometry x="-669.7632474706938" y="-69.16162967347225" width="250" height="70" as="geometry" />
         </mxCell>
         <mxCell id="cs3Pi6S1v08XI19ZjyIN-7" value="Regular Meetings: Share Data/Best Practices" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-689.9173166411831" y="773.1988894704132" width="232" height="66" as="geometry" />
+          <mxGeometry x="-799.7632474706938" y="-109.16162967347225" width="232" height="66" as="geometry" />
         </mxCell>
         <mxCell id="cs3Pi6S1v08XI19ZjyIN-8" value="Leverage External Support: Platform Training, Gov Center" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="-930.7632474706938" y="738.784972890975" width="437" height="279" as="geometry" />
+          <mxGeometry x="-929.7632474706938" y="90.83837032652775" width="437" height="279" as="geometry" />
         </mxCell>
         <mxCell id="cs3Pi6S1v08XI19ZjyIN-9" value="Monitor Performance: Sales, Costs" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="-628.1638035597346" y="-280.16162967347225" width="217" height="66" as="geometry" />
+          <mxGeometry x="-699.7632474706938" y="-209.16162967347225" width="217" height="66" as="geometry" />
         </mxCell>
         <mxCell id="cs3Pi6S1v08XI19ZjyIN-10" value="" style="curved=1;startArrow=none;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;noEdgeStyle=1;orthogonal=1;" edge="1" parent="1" source="cs3Pi6S1v08XI19ZjyIN-1" target="cs3Pi6S1v08XI19ZjyIN-2">
           <mxGeometry relative="1" as="geometry" />
