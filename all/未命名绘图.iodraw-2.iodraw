@@ -4,11 +4,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="cs3Pi6S1v08XI19ZjyIN-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="cs3Pi6S1v08XI19ZjyIN-1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="600" y="53" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="cs3Pi6S1v08XI19ZjyIN-1" value="Identify Need: Market Access" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="590" y="30" width="217" height="66" as="geometry" />
         </mxCell>
@@ -24,7 +19,7 @@
           <mxGeometry x="43" y="170" width="204" height="204" as="geometry" />
         </mxCell>
         <mxCell id="cs3Pi6S1v08XI19ZjyIN-4" value="Pool Resources: Fees, Operator" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="350" y="280" width="214" height="66" as="geometry" />
+          <mxGeometry x="640" y="304" width="214" height="66" as="geometry" />
         </mxCell>
         <mxCell id="cs3Pi6S1v08XI19ZjyIN-5" value="Launch Shared Storefront" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="61" y="420" width="243" height="49" as="geometry" />
